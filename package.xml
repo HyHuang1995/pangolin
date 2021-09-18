@@ -1,0 +1,13 @@
+<package format="2">
+  <name>pangolin</name>
+  <version>0.0.0</version>
+  <description>pangolin</description>
+  <maintainer email="hyhuang1995@gmail.com">Huaiyang HUANG</maintainer>
+
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>catkin_simple</buildtool_depend>
+  <depend>GLEW</depend>
+
+</package>
