@@ -30,4 +30,5 @@ install(DIRECTORY ${CATKIN_DEVEL_PREFIX}/include/pangolin
 
 cs_export(INCLUDE_DIRS ${CATKIN_DEVEL_PREFIX}/include/
     LIBRARIES pangolin
+    DEPENDS GLEW
 )
